@@ -1,1 +1,2004 @@
-
+{
+  "datasets": [
+    {
+      "month": "December",
+      "year": "2020",
+      "title": "Comprehensive mapping of the human cytokine gene regulatory network",
+      "pubmed": [
+        {
+          "id": "33179750",
+          "author": "Santoso et al.",
+          "year": "2020"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2020",
+      "title": "Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains",
+      "pubmed": [
+        {
+          "id": "32814053",
+          "author": "Haenig C. et al.",
+          "year": "2020"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2020",
+      "title": "Multi-level proteomics reveals host-perturbation strategies of SARS-CoV-2 and SARS-CoV",
+      "pubmed": [
+        {
+          "id": "33845483",
+          "author": "Stukalov A. et al.",
+          "year": "2020"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2020",
+      "title": "Extensive signal integration revealed by a phytohormone protein interactome map",
+      "pubmed": [
+        {
+          "id": "32612234",
+          "author": "Altmann M. et al.",
+          "year": "2020"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2020",
+      "title": "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing",
+      "pubmed": [
+        {
+          "id": "32353859",
+          "author": "Gordon et al.",
+          "year": "2020"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2019",
+      "title": "A reference map of the human protein interactome",
+      "pubmed": [
+        {
+          "id": "32296183",
+          "author": "Luck et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2019",
+      "title": "Extensive disruption of protein interactions by genetic variants across the allele frequency spectrum in human populations",
+      "pubmed": [
+        {
+          "id": "31515488",
+          "author": "Fragoza et al.",
+          "year": "2019"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2019",
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "pubmed": [
+        {
+          "id": "28514442",
+          "author": "Huttlin et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2019",
+      "title": "Proteome-wide analysis of phospho-regulated PDZ domain interactions",
+      "pubmed": [
+        {
+          "id": "30126976",
+          "author": "Sundell GN et al.",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2018",
+      "title": "Protein interaction perturbation profiling at amino-acid resolution",
+      "pubmed": [
+        {
+          "id": "29039417",
+          "author": "Woodsmith et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2018",
+      "title": "Proteome-wide analysis of phospho-regulated PDZ domain interactions",
+      "pubmed": [
+        {
+          "id": "30126976",
+          "author": "Sundell et al.",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2018",
+      "title": "An orthogonal proteomic survey uncovers novel Zika virus host factors",
+      "pubmed": [
+        {
+          "id": "30177828",
+          "author": "Scaturro et al.",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2018",
+      "title": "An extracellular network of Arabidopsis leucine-rich repeat receptor kinases",
+      "pubmed": [
+        {
+          "id": "29320478",
+          "author": "Smakowska-Luzan E. et al.",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2018",
+      "title": "Network analysis of UBE3A/E6AP-associated proteins provides connections to several distinct cellular processes",
+      "pubmed": [
+        {
+          "id": "29426014",
+          "author": "Martínez-Noël et al.",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2018",
+      "title": "Characterizing ZC3H18, a Multi-domain Protein at the Interface of RNA Production and Destruction Decisions",
+      "pubmed": [
+        {
+          "id": "29298432",
+          "author": "Winczura et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2017",
+      "title": "Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing",
+      "pubmed": [
+        {
+          "id": "26871637",
+          "author": "Yang et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2017",
+      "title": "Centriolar Satellites Control GABARAP Ubiquitination and GABARAP-Mediated Autophagy",
+      "pubmed": [
+        {
+          "id": "28712572",
+          "author": "Joachim et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2017",
+      "title": "CrY2H-seq: a massively multiplexed assay for deep-coverage interactome mapping",
+      "pubmed": [
+        {
+          "id": "28650476",
+          "author": "Trigg SA et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2017",
+      "title": "A Single Adaptable Cochaperone-Scaffold Complex Delivers Nascent Iron-Sulfur Clusters to Mammalian Respiratory Chain Complexes I-III",
+      "pubmed": [
+        {
+          "id": "28380382",
+          "author": "Maio N. et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2017",
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "pubmed": [
+        {
+          "id": "28330616",
+          "author": "Yadav L. et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2017",
+      "title": "Bacterial Interactomes: Interacting Protein Partners Share Similar Function ",
+      "pubmed": [
+        {
+          "id": "26873250",
+          "author": "Shatsky. et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2017",
+      "title": "The CIA targeting complex is highly regulated and provides two distinct binding sites for client iron-sulphur proteins",
+      "pubmed": [
+        {
+          "id": "28178521",
+          "author": "Odermatt. et al.",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2017",
+      "title": "Widespread macromolecular interaction perturbations in human genetic disorders",
+      "pubmed": [
+        {
+          "id": "25910212",
+          "author": "Sahni. et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2016",
+      "title": "Comparative Influenza Protein Interactomes Identify the Role of Plakophilin 2 in Virus Restriction",
+      "pubmed": [
+        {
+          "id": "28169297",
+          "author": "Wang. et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2016",
+      "title": "Identification of the novel activity-driven interaction between synaptotagmin 1 and presenilin 1 links calcium, synapse, and amyloid beta",
+      "pubmed": [
+        {
+          "id": "27036734",
+          "author": "Kuzuya et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2016",
+      "title": "Identification of the BRD1 interaction network and its impact on mental disorder risk",
+      "pubmed": [
+        {
+          "id": "27142060",
+          "author": "Fryland et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2016",
+      "title": "Systematic Protein-Protein Interaction Analysis Reveals Intersubcomplex Contacts in the Nuclear Pore Complex",
+      "pubmed": [
+        {
+          "id": "27194810",
+          "author": "Apelt et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "September ",
+      "year": "2016",
+      "title": "An organelle-specific protein landscape identifies novel diseases and molecular mechanisms",
+      "pubmed": [
+        {
+          "id": "27173435",
+          "author": "Boldt K. et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2016",
+      "title": "Pooled-matrix protein interaction screens using Barcode Fusion Genetics",
+      "pubmed": [
+        {
+          "id": "27107012",
+          "author": "Yachie et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2016",
+      "title": "An inter-species protein-protein interaction network across vast evolutionary distance",
+      "pubmed": [
+        {
+          "id": "27107014",
+          "author": "Zhong et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2016",
+      "title": "A combined binary interaction and phenotypic map of C. elegans cell polarity proteins",
+      "pubmed": [
+        {
+          "id": "26780296",
+          "author": "Koorman et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2016",
+      "title": "Analysis of the Rab GTPase Interactome in Dendritic Cells Reveals Anti-microbial Functions of the Rab32 Complex in Bacterial Containment (PMID:26885862)",
+      "pubmed": [
+        {
+          "id": "26885862",
+          "author": "Li Y et al.",
+          "year": "2016"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2016",
+      "title": "Mammalian splicing factor SF1 interacts with SURP domains of U2 snRNP-associated proteins",
+      "pubmed": [
+        {
+          "id": "26420826",
+          "author": "Crisci et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2015",
+      "title": "Systematic profiling of the human centrosome-cilium proximity interaction landscape",
+      "pubmed": [
+        {
+          "id": "26638075",
+          "author": "Gupta et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2015",
+      "title": "A human protein interactome in three quantitative dimensions",
+      "pubmed": [
+        {
+          "id": "26496610",
+          "author": "Hein et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2015",
+      "title": "TIMMDC1/C3orf1 functions as a membrane-embedded mitochondrial complex I assembly factor through association with the MCIA complex",
+      "pubmed": [
+        {
+          "id": "24344204",
+          "author": "Guarani et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2015",
+      "title": "Identification of the Mitochondrial Heme Biosynthesis Metabolon",
+      "pubmed": [
+        {
+          "id": "26287972",
+          "author": "Medlock AE et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2015",
+      "title": "A Floor-Plate Extracellular Protein-Protein Interaction Screen Identifies Draxin as a Secreted Netrin-1 Antagonist",
+      "pubmed": [
+        {
+          "id": "26190107",
+          "author": "Gao X et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2015",
+      "title": "A protein interaction map of the LSU processome",
+      "pubmed": [
+        {
+          "id": "25877921",
+          "author": "McCann KL et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2015",
+      "title": "A protein interaction map of the LSU processome",
+      "pubmed": [
+        {
+          "id": "25877921",
+          "author": "McCann KL et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2015",
+      "title": "Phospho-tyrosine dependent protein-protein interaction network",
+      "pubmed": [
+        {
+          "id": "25814554",
+          "author": "Grossmann A et al.",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2015",
+      "title": "A proteome-scale map of the human interactome network",
+      "pubmed": [
+        {
+          "id": "25416956",
+          "author": "Roland et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2015",
+      "title": "The EHEC-host interactome reveals novel targets for the translocated intimin receptor",
+      "pubmed": [
+        {
+          "id": "25519916",
+          "author": "Blasche et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2015",
+      "title": "A DEK Domain-Containing Protein Modulates Chromatin",
+      "pubmed": [
+        {
+          "id": "25387881",
+          "author": "Waidmann et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2014",
+      "title": "The protein-tyrosine kinases and phosphatases of Bacillus subtilis from the groups of Marie-Francoise Noirot-Gros and Ivan Mijakovic",
+      "pubmed": [
+        {
+          "id": "25278935",
+          "author": "L. Shi et al.",
+          "year": "2014"
+        },
+        {
+          "id": "25374563",
+          "author": "L. Shi et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2014",
+      "title": "Analysis of the expression patterns, subcellular localisations and interaction partners of Drosophila proteins using a pigP protein trap library",
+      "pubmed": [
+        {
+          "id": "25294943",
+          "author": "N. Lowe et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2014",
+      "title": "Using an in situ proximity ligation assay to systematically profile endogenous protein-protein interactions in a pathway network",
+      "pubmed": [
+        {
+          "id": "25241761",
+          "author": "Chen T.C. et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2014",
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "pubmed": [
+        {
+          "id": "25036637",
+          "author": "Taipale et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2014",
+      "title": "Ribosomal Protein s15 Phosphorylation Mediates LRRK2 Neurodegeneration in Parkinson's Disease",
+      "pubmed": [
+        {
+          "id": "24725412",
+          "author": "Martin et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2014",
+      "title": "Enhanced prediction of SH2 domain binding potentials using a fluorescence polarization-derived c-Met, c-Kit, ErbB, and androgen receptor interactome",
+      "pubmed": [
+        {
+          "id": "24728074",
+          "author": "Leung et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2014",
+      "title": "Butland et al. The Palmitoyl acyltransferase HIP14 Shares a High Proportion of Interactors with Huntingtin: Implications for a Role in the Pathogenesis of Huntington Disease",
+      "pubmed": [
+        {
+          "id": "24705354",
+          "author": "Butland et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2014",
+      "title": "Interactomics of Qa-SNARE in Arabidopsis thaliana",
+      "pubmed": [
+        {
+          "id": "24556609",
+          "author": "Fujiwara et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2014",
+      "title": "The binary protein-protein interaction landscape of Escherichia coli",
+      "pubmed": [
+        {
+          "id": "24561554",
+          "author": "Rajagopala et al.",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2014",
+      "title": "Protein interaction network of the Mammalian hippo pathway reveals mechanisms of kinase-phosphatase interactions",
+      "pubmed": [
+        {
+          "id": "24255178",
+          "author": "Couzens et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2014",
+      "title": "Protein interaction network of the Mammalian hippo pathway reveals mechanisms of kinase-phosphatase interactions",
+      "pubmed": [
+        {
+          "id": "24255178",
+          "author": "Couzens et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2013",
+      "title": "Perturbation of the mutated EGFR interactome identifies vulnerabilities and resistance mechanisms",
+      "pubmed": [
+        {
+          "id": "24189400",
+          "author": "Li et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2013",
+      "title": "Identification and Comparative Analysis of Hepatitis C Virus-Host Cell Protein Interactions",
+      "pubmed": [
+        {
+          "id": "24136289",
+          "author": "Dolan et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2013",
+      "title": "The protein interaction network of bacteriophage lambda with its host, Escherichia coli",
+      "pubmed": [
+        {
+          "id": "24049175",
+          "author": "Blasche et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2013",
+      "title": "A conserved N-terminal motif is required for complex formation between FUS, EWSR1, TAF15 and their oncogenic fusion proteins",
+      "pubmed": [
+        {
+          "id": "23975937",
+          "author": "Thomsen et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2013",
+      "title": "Extensive Rewiring and Complex Evolutionary Dynamics in a C. elegans Multiparameter Transcription Factor Network",
+      "pubmed": [
+        {
+          "id": "23791784",
+          "author": "Reece-Hoyes et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2013",
+      "title": "Global T cell protein interaction network for human HDACs",
+      "pubmed": [
+        {
+          "id": "23752268",
+          "author": "Joshi et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2013",
+      "title": "SH3 interactome conserves general function over specific form",
+      "pubmed": [
+        {
+          "id": "23549480",
+          "author": "Xin et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2013",
+      "title": "Protein Complexes Are under Evolutionary Selection to Assemble via Ordered Pathways. Data submitted directly to IntAct",
+      "pubmed": [
+        {
+          "id": "23582331",
+          "author": "Marsh et al.",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2013",
+      "title": "Dynamic Circadian Protein-Protein Interaction Networks Reveal Temporal Organization of Cellular Functions. Data submitted directly to IntAct",
+      "pubmed": [
+        {
+          "id": "23555304",
+          "author": "Wallach et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2013",
+      "title": "Interlaboratory reproducibility of large-scale human protein-complex analysis by standardized affinity purification-mass spectrometry. Data directly submitted to IntAct",
+      "pubmed": [
+        {
+          "id": "23455922",
+          "author": "Varjosalo et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2013",
+      "title": "Development and Application of a DNA Microarray-Based Yeast Two-Hybrid System. Data directly submitted to IntAct",
+      "pubmed": [
+        {
+          "id": "23275563",
+          "author": "Suter et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2013",
+      "title": "Silencing of MYC-mediated miR-29 by HDAC3 and EZH2 as a target of histone modification in aggressive B-Cell lymphomas",
+      "pubmed": [
+        {
+          "id": "23079660",
+          "author": "Zhang et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2012",
+      "title": "Human VRK2 (Vaccinia-related Kinase 2) modulates tumor cell invasion - data submitted directly to IntAct",
+      "pubmed": [
+        {
+          "id": "23105117",
+          "author": "Vazquez-Cedeira et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2012",
+      "title": "A Human Skeletal Muscle Interactome Centered on Proteins involved in Muscular Dystrophies - data submitted directly to IntAct",
+      "pubmed": [
+        {
+          "id": "23414517",
+          "author": "Blandin et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2012",
+      "title": "VEGF Inhibits Tumor Cell Invasion and Mesenchymal Transition through a MET/VEGFR2 Complex",
+      "pubmed": [
+        {
+          "id": "22789536",
+          "author": "Lu et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2012",
+      "title": "Viral immune modulators perturbing the human molecular network - data directly submitted to IntAct",
+      "pubmed": [
+        {
+          "id": "22810585",
+          "author": "Pichlmair et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2012",
+      "title": "VRK2 anchors KSR1-MEK1 to endoplasmic reticulum forming a macromolecular complex that compartmentalizes MAPK signaling - data submitted directly to IntAct",
+      "pubmed": [
+        {
+          "id": "22752157",
+          "author": "Fernández, I. et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2012",
+      "title": "Exploring respiratory virus interactions - data directly submitted to IntAct",
+      "pubmed": [
+        {
+          "id": "22522808",
+          "author": "The Hiscox group",
+          "year": "2012"
+        },
+        {
+          "id": "22593156",
+          "author": "The Hiscox group",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2012",
+      "title": "CRFs form protein-protein interactions with each other and with members of the cytokinin signalling pathway in Arabidopsis via the CRF domain",
+      "pubmed": [
+        {
+          "id": "21705390",
+          "author": "Cutcliffe et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2012",
+      "title": "Systematic analysis of dimeric E3-RING interactions reveals increased combinatorial complexity in human ubiquitination networks",
+      "pubmed": [
+        {
+          "id": "22493164",
+          "author": "Woodsmith et al.",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2012",
+      "title": "Conserved BK channel-protein interactions reveal signals relevant to cell death and survival",
+      "pubmed": [
+        {
+          "id": "22174833",
+          "author": "Sokolowski B et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2012",
+      "title": "A Systematic Screen for CDK4/6 Substrates Links FOXM1 Phosphorylation to Senescence Suppression in Cancer Cells",
+      "pubmed": [
+        {
+          "id": "22094256",
+          "author": "Anders et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2012",
+      "title": "A Systematic Screen for CDK4/6 Substrates Links FOXM1 Phosphorylation to Senescence Suppression in Cancer Cells",
+      "pubmed": [
+        {
+          "id": "22094256",
+          "author": "Anders et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2012",
+      "title": "Modularity and hormone sensitivity of the Drosophila melanogaster insulin receptor/target of rapamycin interaction proteome",
+      "pubmed": [
+        {
+          "id": "22068330",
+          "author": "Glatter et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2011",
+      "title": "Evidence for network evolution in an Arabidopsis interactome map",
+      "pubmed": [
+        {
+          "id": "21798944",
+          "author": "Arabidopsis Interactome Mapping Consortium",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2011",
+      "title": "Toward an understanding of the protein interaction network of human liver",
+      "pubmed": [
+        {
+          "id": "21988832",
+          "author": "Wang et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2011",
+      "title": "Combinatorial depletion analysis to assemble the network architecture of the SAGA and ADA chromatin remodeling complexes",
+      "pubmed": [
+        {
+          "id": "21734642",
+          "author": "Lee et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2011",
+      "title": "Selected reaction monitoring mass spectrometry reveals the dynamics of signaling through the GRB2 adaptor",
+      "pubmed": [
+        {
+          "id": "21706016",
+          "author": "Bisson et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2011",
+      "title": "Linking Chromatin remodelling, DNA repair and genomic stability  through INO80 network",
+      "pubmed": [
+        {
+          "id": "18922472",
+          "author": "Yao et al.",
+          "year": "2008"
+        },
+        {
+          "id": "18026119",
+          "author": "Wu et al.",
+          "year": "2007"
+        },
+        {
+          "id": "21303910",
+          "author": "Chen et al.",
+          "year": "2011"
+        },
+        {
+          "id": "20855601",
+          "author": "Jiang et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2011",
+      "title": "Mpk1 MAPK Association with the Paf1 Complex Blocks Sen1-Mediated Premature Transcription Termination",
+      "pubmed": [
+        {
+          "id": "21376235",
+          "author": "Kim et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2011",
+      "title": "The Impact of a Novel Apolipoprotein E and Amyloid-β Protein Precursor-Interacting Protein on the Production of Amyloid-β",
+      "pubmed": [
+        {
+          "id": "21593558",
+          "author": "Hopkins et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2011",
+      "title": "In vivo analysis of proteomes and interactomes using parallel affinity capture (iPAC) coupled to mass spectrometry",
+      "pubmed": [
+        {
+          "id": "21447707",
+          "author": "Rees et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2011",
+      "title": "Two datasets from the Weisz group (Proteomics, January 2011) describe the estrogen interactome involved in breast cancer",
+      "pubmed": [
+        {
+          "id": "21182205",
+          "author": "Tarallo et al.",
+          "year": "2010"
+        },
+        {
+          "id": "21182203",
+          "author": "Nassa et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2011",
+      "title": "Interactions of the  regulator of actin filament dynamics, LIM domain kinase 1 ",
+      "pubmed": [
+        {
+          "id": "21219645",
+          "author": "Tapia et al.",
+          "year": "2011"
+        },
+        {
+          "id": "15220930",
+          "author": "Yang et al.",
+          "year": "2004"
+        },
+        {
+          "id": "17979178",
+          "author": "Gloeckner et al.",
+          "year": "2008"
+        },
+        {
+          "id": "12361576",
+          "author": "Gohla et al.",
+          "year": "2004"
+        },
+        {
+          "id": "16837009",
+          "author": "Piruccello et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2011",
+      "title": "A stele-enriched gene regulatory network in the Arabidopsis root",
+      "pubmed": [
+        {
+          "id": "21245844",
+          "author": "Brady et al.",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2011",
+      "title": "Network organization of the human autophagy system",
+      "pubmed": [
+        {
+          "id": "20562859",
+          "author": "Behrends et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2010",
+      "title": "Defining the Budding Yeast Chromatin Associated Interactome",
+      "pubmed": [
+        {
+          "id": "21179020",
+          "author": "Lambert et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2010",
+      "title": "The involvement of leucine-rich repeat kinase 2 in actin cytoskeleton dynamics",
+      "pubmed": [
+        {
+          "id": "20876399",
+          "author": "Meixner et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2010",
+      "title": "Allostery and intrinsic disorder mediate transcription regulation by conditional cooperativity",
+      "pubmed": [
+        {
+          "id": "20603017",
+          "author": "Garcia-Pino et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2010",
+      "title": "Experimentally identified RNA-binding proteins in Oryza sativa L",
+      "pubmed": [
+        {
+          "id": "21421362",
+          "author": "Robert et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2010",
+      "title": "The Human-Bacterial Pathogen Protein Interaction Networks of Bacillus anthracis, Francisella tularensis and Yersinia pestis",
+      "pubmed": [
+        {
+          "id": "20711500",
+          "author": "Dyer et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2010",
+      "title": "The mapping of interacting regions of transcription factor-related protein complexes using a high-throughput mRNA display screen",
+      "pubmed": [
+        {
+          "id": "20195357",
+          "author": "Miyamoto et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2010",
+      "title": "Interactome mapping of the phosphatidylinositol 3-kinase-mammalian target of rapamycin pathway",
+      "pubmed": [
+        {
+          "id": "20368287",
+          "author": "Pilot-Storck et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2010",
+      "title": "Interactions of p63, a key player in multiple facets of epithelial cell biology",
+      "pubmed": [
+        {
+          "id": "19345189",
+          "author": "Adorno et al.",
+          "year": "2009"
+        },
+        {
+          "id": "20085233",
+          "author": "Amoresano et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2010",
+      "title": "Characterisation of human protein complexes with a role in chromosome segregation and cell division",
+      "pubmed": [
+        {
+          "id": "20360068",
+          "author": "Hutchins et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2010",
+      "title": "The Varicella Zoster Virus interactome",
+      "pubmed": [
+        {
+          "id": "20205919",
+          "author": "Stellberger et al.",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2010",
+      "title": "Proteome Organization in a Genome-Reduced Bacterium - the interactome of Mycoplasma pneumoniae provides a blueprint of the minimal cellular machinery required for life",
+      "pubmed": [
+        {
+          "id": "19965468",
+          "author": "Kuhner et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2010",
+      "title": "A PP2A phosphatase interaction network involves the cerebral cavernous malformation 3 (CCM3) protein",
+      "pubmed": [
+        {
+          "id": "18782753",
+          "author": "Goudreault et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2009",
+      "title": "Analysis of interaction partners of H4 histone by a new proteomics approach",
+      "pubmed": [
+        {
+          "id": "19862764",
+          "author": "Saade et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2009",
+      "title": "Addition of novel interactions to IntAct's Alzheimer's network",
+      "pubmed": [
+        {
+          "id": "10567208",
+          "author": "Milton et al.",
+          "year": "1999"
+        },
+        {
+          "id": "11756426",
+          "author": "Yaar et al.",
+          "year": "2002"
+        },
+        {
+          "id": "16492752",
+          "author": "Atamna et al.",
+          "year": "2006"
+        },
+        {
+          "id": "15983050",
+          "author": "Matsuda et al.",
+          "year": "2005"
+        },
+        {
+          "id": "16849325",
+          "author": "Falkevall et al.",
+          "year": "2006"
+        },
+        {
+          "id": "16374483",
+          "author": "De Schepper et al.",
+          "year": "2006"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2009",
+      "title": "A zebrafish cell surface interaction network of neural leucine-rich repeat receptors",
+      "pubmed": [
+        {
+          "id": "19765300",
+          "author": "Soellner et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2009",
+      "title": "A protein interaction network for the large conductance Ca(2+)-activated K(+) channel in the mouse cochlea",
+      "pubmed": [
+        {
+          "id": "19423573",
+          "author": "Kathiresan et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2009",
+      "title": "Targeted tandem affinity purification of PSD-95 recovers core postsynaptic complexes and schizophrenia susceptibility proteins",
+      "pubmed": [
+        {
+          "id": "19455133",
+          "author": "Fernandez et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2009",
+      "title": "The Human E2 Ubiquitin Conjugating Enzyme Protein Interaction Network",
+      "pubmed": [
+        {
+          "id": "19549727",
+          "author": "Markson et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2009",
+      "title": "A Smart Pooling approach where reagents are multiplexed in a highly redundant manner provides a strategy for achieving high efficiency, sensitivity, and specificity in yeast two hybrid screens",
+      "pubmed": [
+        {
+          "id": "19447967",
+          "author": "Xin et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2009",
+      "title": "Exploring the human phosphatome",
+      "pubmed": [
+        {
+          "id": "19167335",
+          "author": "Barr et al.",
+          "year": "2009"
+        },
+        {
+          "id": "16461343",
+          "author": "Wu et al.",
+          "year": "2009"
+        },
+        {
+          "id": "12907755",
+          "author": "Pasquali et al.",
+          "year": "2009"
+        },
+        {
+          "id": "8576115",
+          "author": "Ng et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2009",
+      "title": "Two novel GPCR-type G proteins are abscisic acid receptors in Arabidopsis",
+      "pubmed": [
+        {
+          "id": "19135895",
+          "author": "Pandey et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2009",
+      "title": "An in vitro microfluidic approach to generating protein-interaction networks",
+      "pubmed": [
+        {
+          "id": "19098921",
+          "author": "Gerber et al.",
+          "year": "2009"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2009",
+      "title": "Submitted datasets - Improved approaches to largescale interactome mapping",
+      "pubmed": [
+        {
+          "id": "19156129",
+          "author": "Glatter et al.",
+          "year": "2008"
+        },
+        {
+          "id": "19079254",
+          "author": "Schwartz et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2009",
+      "title": "In vivo interactome of yeast",
+      "pubmed": [
+        {
+          "id": "18467557",
+          "author": "Tarassov et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2008",
+      "title": "Controlling the cell cycle - interactions of VRK1",
+      "pubmed": [
+        {
+          "id": "18617507",
+          "author": "Sanz-Garcia M et al.",
+          "year": "2008"
+        },
+        {
+          "id": "15542844",
+          "author": "Vega FM et al.",
+          "year": "2008"
+        },
+        {
+          "id": "15378002",
+          "author": "Sevilla A et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2008",
+      "title": "Investigating HIF1alpha turnover - regulating the adaptive response to hypoxia",
+      "pubmed": [
+        {
+          "id": "18775313",
+          "author": "Alexandru G et al.",
+          "year": "2008"
+        },
+        {
+          "id": "15721254",
+          "author": "Baek JH et al.",
+          "year": "2006"
+        },
+        {
+          "id": "17986458",
+          "author": "Bex C et al.",
+          "year": "2008"
+        },
+        {
+          "id": "17956732",
+          "author": "Carbia-Nagashima A et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2008",
+      "title": "Interactome network for C. elegans early embryogenesis",
+      "pubmed": [
+        {
+          "id": "18692475",
+          "author": "Boxem et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2008",
+      "title": "The identification of nuclear Ran GTPase as a regulator of the Vaccinia-Related Kinases",
+      "pubmed": [
+        {
+          "id": "18617507",
+          "author": "Sanz-Garcia et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2008",
+      "title": "Focus on Apoptosis",
+      "pubmed": [
+        {
+          "id": "18188704",
+          "author": "Gdynia et al.",
+          "year": "2008"
+        },
+        {
+          "id": "15451437",
+          "author": "Kumar et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2008",
+      "title": "Resolving and Identifying Protein Components of Plant Mitochondrial Respiratory Complexes Using Three Dimensions of Gel Electrophoresis",
+      "pubmed": [
+        {
+          "id": "18189341",
+          "author": "Meyer et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2008",
+      "title": "Protein interactions in the Syphilis Spirochete",
+      "pubmed": [
+        {
+          "id": "18509523",
+          "author": "Titz et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2008",
+      "title": "Protein-protein interactions between two-component system transmitter and receiver domains of Myxococcus xanthus",
+      "pubmed": [
+        {
+          "id": "18442170",
+          "author": "Whitworth et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2008",
+      "title": "A medium-scale proteomics study of interactions between transcription factors with roles in liver cell proliferation",
+      "pubmed": [
+        {
+          "id": "18255255",
+          "author": "Gao et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2008",
+      "title": "Avexis - A novel method to screen low-affinity extracellular interactions",
+      "pubmed": [
+        {
+          "id": "18296487",
+          "author": "Bushell et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2008",
+      "title": "the systematic identification of protein interactions for the unicellular cyanobacterium Synechocystis sp. strain PCC6803. Using a modified high-throughput yeast two-hybrid assay a total of 3236 independent two-hybrid interactions involving 1920 proteins were detected",
+      "pubmed": [
+        {
+          "id": "18000013",
+          "author": "Sato et al.",
+          "year": "2008"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2008",
+      "title": "A protein-interaction network formed by the ARP2-ARP3 complex which is known to controls cell shape in Arabidopsis",
+      "pubmed": [
+        {
+          "id": "17267444",
+          "author": "Uhrig et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2007",
+      "title": "Focus on interactions of PI3-kinase subunits",
+      "pubmed": [
+        {
+          "id": "15377662",
+          "author": "Chamberlain et al.",
+          "year": "2007"
+        },
+        {
+          "id": "8313896",
+          "author": "Dhand et al.",
+          "year": "2007"
+        },
+        {
+          "id": "17626883",
+          "author": "Miled et al.",
+          "year": "2007"
+        },
+        {
+          "id": "9658397",
+          "author": "Rocchi et al.",
+          "year": "2005"
+        },
+        {
+          "id": "10805725",
+          "author": "Arcaro et al.",
+          "year": "2005"
+        },
+        {
+          "id": "11136978",
+          "author": "Pacold et al.",
+          "year": "2006"
+        },
+        {
+          "id": "8647200",
+          "author": "Law et al.",
+          "year": "2003"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2007",
+      "title": "A selection of papers from 2007 describing protein-protein interactions involving p53",
+      "pubmed": [
+        {
+          "id": "17310983",
+          "author": "Chen et al.",
+          "year": "2007"
+        },
+        {
+          "id": "17254968",
+          "author": "Sun et al.",
+          "year": "2007"
+        },
+        {
+          "id": "17875722",
+          "author": "Hu et al.",
+          "year": "2007"
+        },
+        {
+          "id": "17482142",
+          "author": "Nandi et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "year": "2007",
+      "title": "Quantitative chemical proteomics reveals mechanisms of action of clinical ABL kinase inhibitors",
+      "pubmed": [
+        {
+          "id": "17721511",
+          "author": "Bantscheff et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2007",
+      "title": "With more than 12,000 interactions, Parrish et al. provide a major bacterial interactome",
+      "pubmed": [
+        {
+          "id": "17615063",
+          "author": "Parrish et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2007",
+      "title": "High throughput proteomic analysis of Ring1B/Rnf2 interactors identifies a novel complex with the Fbxl10/Jmjd1B histone demethylase and the BcoR corepressor",
+      "pubmed": [
+        {
+          "id": "17296600",
+          "author": "Sanchez et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2007",
+      "title": "Large-scale identification of c-MYC-associated proteins using a combined TAP/MudPIT approach",
+      "pubmed": [
+        {
+          "id": "17314511",
+          "author": "Koch HB. et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2007",
+      "title": "Two cancer-related medium-scale proteomics papers",
+      "pubmed": [
+        {
+          "id": "17220478",
+          "author": "Tu LC. et al.",
+          "year": "2007"
+        },
+        {
+          "id": "17274640",
+          "author": "Flores-Delgado G. et al.",
+          "year": "2007"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2007",
+      "title": "Large-scale mapping of human protein-protein interactions by mass spectrometry",
+      "pubmed": [
+        {
+          "id": "17353931",
+          "author": "Ewing et al.",
+          "year": "2006"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2007",
+      "title": "Exploring the mammalian NF-kappaB pathway",
+      "pubmed": [
+        {
+          "id": "16286467",
+          "author": "Li Q. et al.",
+          "year": "2006"
+        },
+        {
+          "id": "16319058",
+          "author": "Bernier M. et al.",
+          "year": "2006"
+        },
+        {
+          "id": "17254973",
+          "author": "Basak S. et al.",
+          "year": "2007"
+        },
+        {
+          "id": "14743216",
+          "author": "Bouwmeester T. et al.",
+          "year": "2004"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2007",
+      "title": "The Conserved KNL-1/Mis12complex/Ndc80 Network",
+      "pubmed": [
+        {
+          "id": "17129783",
+          "author": "Cheeseman IM et al.",
+          "year": "2006"
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2006",
+      "title": "Role of SMC proteins in chromatin modulation",
+      "pubmed": [
+        {
+          "id": "15148393",
+          "author": "Chen ES et al."
+        },
+        {
+          "id": "9285594",
+          "author": "Sutani T et al."
+        },
+        {
+          "id": "11914278",
+          "author": "Hagstrom KA et al."
+        },
+        {
+          "id": "12773391",
+          "author": "Sakai A et al."
+        },
+        {
+          "id": "12966087",
+          "author": "McDonald WH et al."
+        },
+        {
+          "id": "15148393",
+          "author": "Chen ES et al."
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2006",
+      "title": "Large-scale identification of protein-protein interaction of Escherichia coli K-12",
+      "pubmed": [
+        {
+          "id": "16606699",
+          "author": "Arifuzzaman et al."
+        },
+        {
+          "id": "16857963",
+          "author": "Zong C et al."
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2006",
+      "title": "Chl12 (Ctf18) forms a novel replication factor C-related complex and functions redundantly with Rad24 in the DNA replication checkpoint pathway",
+      "pubmed": [
+        {
+          "id": "11486023",
+          "author": "Naiki et al."
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2006",
+      "title": "More than 750 interactions of human proteins with a potential role in ataxia, the neurodegenerative condition caused by cerebellar Purkinje cell degeneration",
+      "pubmed": [
+        {
+          "id": "16713569",
+          "author": "Lim et al."
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2006",
+      "title": "Landscape of the hnRNP K protein-protein interactome",
+      "pubmed": [
+        {
+          "id": "16518874",
+          "author": "Mikula et al."
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2006",
+      "title": "Stable isotope labeling by amino acids in cell culture (SILAC) to identify proteins that interact with GLUT4 in an insulin-regulated manner",
+      "pubmed": [
+        {
+          "id": "16396496",
+          "author": "Foster et al."
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2006",
+      "title": "Biochemical niche of C. elegans DCR-1 in small-RNA-mediated pathways",
+      "pubmed": [
+        {
+          "id": "16439208",
+          "author": "Duchaine et al."
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2006",
+      "title": "A protein interaction network of the malaria parasite Plasmodium falciparum",
+      "pubmed": [
+        {
+          "id": "16267556",
+          "author": "LaCount et al."
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2006",
+      "title": "Genome-wide screen for complexes in yeast: purifications and computed complexes",
+      "pubmed": [
+        {
+          "id": "16429126",
+          "author": "Gavin et al."
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2006",
+      "title": "Proteomic characterization of the components and multiprotein complexes of the mouse brain PSD",
+      "pubmed": [
+        {
+          "id": "16236029",
+          "author": "Collins et al."
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "year": "2005",
+      "title": "Extending the human and yeast protein interaction network: more than 6200 new interactions in IntAct!",
+      "pubmed": [
+        {
+          "id": "16169070",
+          "author": "Stelzl et al."
+        },
+        {
+          "id": "16189514",
+          "author": "Rual et al."
+        },
+        {
+          "id": "16263121",
+          "author": "Falsone et al."
+        },
+        {
+          "id": "16273344",
+          "author": "Hu et al."
+        },
+        {
+          "id": "15766533",
+          "author": "Zhao et al."
+        }
+      ]
+    }
+  ]
+}
