@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "May",
+      "year": "2021",
+      "title": "A map of binary SARS-CoV-2 protein interactions implicates host immune regulation and ubiquitination",
+      "pubmeds": [
+        {
+          "id": "unassigned2933",
+          "author": "Kim et al.",
+          "year": "2021"
+        }
+      ]
+    },
+    {
       "month": "December",
       "year": "2020",
       "title": "Comprehensive mapping of the human cytokine gene regulatory network",
