@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "February",
+      "year": "2022",
+      "title": "Human transcription factor protein interaction 1 networks (PMID:35140242)",
+      "pubmeds": [
+        {
+          "id": "unassigned3314",
+          "author": "Helka Göös et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
       "month": "May",
       "year": "2021",
       "title": "A map of binary SARS-CoV-2 protein interactions implicates host immune regulation and ubiquitination",
